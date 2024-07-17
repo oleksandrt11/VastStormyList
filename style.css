@@ -2,3 +2,61 @@ html {
   height: 100%;
   width: 100%;
 }
+
+p {
+  color: black;
+}
+  
+.Projects {
+    background-color: lightgreen;
+  }
+
+
+.About {
+  background-color: red;
+}
+
+.Contact {
+  background-color: black;
+}
+
+.footer2 {
+  background-color: lightcoral;
+}
+
+.nav2 ul {
+ list-style: none;
+}
+
+.nav2 {
+  background-color: green;
+}
+
+#number {
+    color: pink;
+  }
+
+#nav {
+  color: yellow;
+}
+
+
+#footer {
+  color: purple;
+}
+
+
+#bio {
+  color: blue;
+}
+
+
+
+#MP {
+  color: ;
+}
+    
+    a:hover {
+  font-size: 50px;
+}
+
